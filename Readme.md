@@ -5,6 +5,9 @@
 * **[Index.aspx](./CS/DevExpressMvcApplication_Menu/Views/Home/Index.aspx) (VB: [Index.aspx](./VB/DevExpressMvcApplication_Menu/Views/Home/Index.aspx))**
 <!-- default file list end -->
 # How to Create a Simple MVC Menu
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e2739/)**
+<!-- run online end -->
 
 
 <p>This sample demonstrates how to add a <strong>Menu</strong> to a view.</p><br />
